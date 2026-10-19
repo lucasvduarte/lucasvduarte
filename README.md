@@ -11,7 +11,7 @@
   <a href="https://github.com/lucasvduarte"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
-I'm a **Senior Mobile Software Engineer at [Neon](https://neon.com.br)**, one of Brazil's largest digital banks, with **7+ years** building high-scale financial software. 
+I'm a **Mobile Software Engineer at [Neon](https://neon.com.br)**, one of Brazil's largest digital banks, with **7+ years** building high-scale financial software. 
 
 Day-to-day, I lead the modernization of native **Android** platforms using **Kotlin** and **Jetpack Compose**, alongside building cross-platform solutions with **React Native**, **TypeScript**, and **Backend-for-Frontend (BFF)** architectures.
 
