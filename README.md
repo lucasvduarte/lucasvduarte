@@ -80,7 +80,7 @@ A lightweight, highly customizable table component for rendering complex dataset
 ## 🧩 Academic & Studies
 
 | What it is | Stack |
-|---|---|---|
+|---|---|
 | Computer Science university labs on data structures and algorithms (UFCG) | Java |
 
 <br>
