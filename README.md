@@ -1,23 +1,25 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" alt="Lucas Duarte, Software Engineer" width="100%">
+  <img src="assets/banner-light.svg" alt="Lucas Duarte, Senior Mobile Engineer" width="100%">
 </picture>
 
 <br>
 
 <p>
+  <a href="https://www.linkedin.com/in/lucvduarte/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:lucvduarte@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/lucasvduarte"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
-I'm a **software engineer at [Neon](https://neon.com.br)**, one of Brazil's largest digital banks, building backend services with **Kotlin** and the interfaces that sit on top of them.
+I'm a **Senior Mobile Software Engineer at [Neon](https://neon.com.br)**, one of Brazil's largest digital banks, with **7+ years** building high-scale financial software. 
 
-Outside work I build web and mobile projects with **TypeScript**, **React** and **React Native**, with a soft spot for reusable component libraries.
+Day-to-day, I lead the modernization of native **Android** platforms using **Kotlin** and **Jetpack Compose**, alongside building cross-platform solutions with **React Native**, **TypeScript**, and **Backend-for-Frontend (BFF)** architectures.
 
-- ⚙️ **Back end**: Kotlin, Java, Node.js, REST APIs, PostgreSQL, Kafka
-- 📱 **Mobile**: React Native, Expo, TypeScript
-- 🌐 **Web**: React, styled-components, Tailwind CSS
-- 🧱 **Design systems**: reusable, themeable UI component libraries
-- 🐳 **Tooling**: Docker, Git, CI
+- 🤖 **Android Native**: Kotlin, Jetpack Compose, MVI / MVVM, Coroutines & Flow, Hilt, JUnit, Mockito
+- 📱 **Cross-Platform & Web**: React Native, Expo, TypeScript, Redux Toolkit, Styled Components, Storybook
+- ⚙️ **Platform & Backend**: Backend-for-Frontend (BFF), Kong Gateway, REST APIs, Design Systems
+- 📊 **Observability & Experimentation**: Mixpanel, Datadog, Firebase (Crashlytics/Analytics), GrowthBook
+- 🧱 **Design Systems**: Reusable, themeable, and accessible UI component libraries
 
 <br>
 
@@ -25,66 +27,61 @@ Outside work I build web and mobile projects with **TypeScript**, **React** and 
 
 ### Design System · React Native
 
-A reusable UI component library for React Native apps, built with TypeScript and Expo, so every screen shares the same look and behavior.
+<a href="https://github.com/lucasvduarte/desing-system-RN"><img src="assets/showcase/design-system.png" alt="Design System screenshots" width="100%"></a>
 
-`React Native` `Expo` `TypeScript` `Design System` `Jest`
+A reusable UI component library for React Native apps, built with TypeScript, Expo, and Storybook, ensuring shared consistency, accessibility, and themeability across mobile platforms.
+
+`React Native` `Expo` `TypeScript` `Design System` `Storybook` `Jest`
 
 **[View repository →](https://github.com/lucasvduarte/desing-system-RN)**
 
 <br>
 
-### Admin Dashboard · React
-
-A web admin dashboard built with React, TypeScript and styled-components.
-
-`React` `TypeScript` `styled-components`
-
-**[View repository →](https://github.com/lucasvduarte/painel-web)**
-
-<br>
-
-### Table Component · React
-
-A table component for displaying simple data, designed to be easy to configure.
-
-`React` `TypeScript` `Component`
-
-**[View repository →](https://github.com/lucasvduarte/table)**
-
-<br>
-
 ### Micro-business App · Full stack
 
-A small business management app, split into a frontend and a REST API, with a Docker setup for deployment.
+<a href="https://github.com/lucasvduarte/micro-empreendimento-front"><img src="assets/showcase/micro-business.png" alt="Micro-business App screenshots" width="100%"></a>
 
-`React` `TypeScript` `Tailwind CSS` `Node.js` `Docker`
+A small business management application, divided into a React frontend and a REST API backend, fully containerized with Docker for deployment.
+
+`React` `TypeScript` `Tailwind CSS` `Node.js` `Docker` `REST API`
 
 **[Frontend →](https://github.com/lucasvduarte/micro-empreendimento-front)** · **[Backend →](https://github.com/lucasvduarte/micro-empreendimento-back)**
 
 <br>
 
-## 🛠️ Tech stack
+### Table Component · React
 
-**Back end and data**
+<a href="https://github.com/lucasvduarte/table"><img src="assets/showcase/table-component.png" alt="Table Component screenshots" width="100%"></a>
 
-<img src="https://skillicons.dev/icons?i=kotlin,java,spring,nodejs,postgres,kafka,docker" alt="Kotlin, Java, Spring, Node.js, PostgreSQL, Kafka, Docker">
+A lightweight, highly customizable table component for rendering complex datasets in React applications.
 
-**Web and mobile**
+`React` `TypeScript` `UI Component` `Frontend`
 
-<img src="https://skillicons.dev/icons?i=ts,react,tailwind,styledcomponents,html,css,expo" alt="TypeScript, React, Tailwind, styled-components, HTML, CSS, Expo">
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,gradle,idea,vscode" alt="Git, GitHub, Gradle, IntelliJ IDEA, VS Code">
+**[View repository →](https://github.com/lucasvduarte/table)**
 
 <br>
 
-## 🧩 More projects
+## 🛠️ Tech stack
 
-| Project | What it is | Stack |
+**Android Native & Mobile**
+
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,react,ts,js,figma" alt="Kotlin, Android Studio, React Native, TypeScript, JavaScript, Figma">
+
+**Web, Back end & Platform**
+
+<img src="https://skillicons.dev/icons?i=nodejs,postgres,html,css" alt="Node.js, PostgreSQL, HTML, CSS">
+
+**Tools & Testing**
+
+<img src="https://skillicons.dev/icons?i=git,github,gradle,idea,vscode,jest" alt="Git, GitHub, Gradle, IntelliJ IDEA, VS Code, Jest">
+
+<br>
+
+## 🧩 Academic & Studies
+
+| What it is | Stack |
 |---|---|---|
-| [SQL Server studies](https://github.com/lucasvduarte/estudo_sql) | Notes and exercises (archived) | SQL Server |
-| [Data structures labs](https://github.com/lucasvduarte/Leda) | University labs on data structures and algorithms (archived) | Java |
+| Computer Science university labs on data structures and algorithms (UFCG) | Java |
 
 <br>
 
